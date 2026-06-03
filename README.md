@@ -1,36 +1,146 @@
-# 💫 About Me:
-Hi, I'm Deepesh 👋<br><br>🎓 B.Tech CSE Student (2027)<br><br>💻 Full Stack Java Developer<br>⚡ Solving Data Structures & Algorithms Problems<br>☁️ Learning AWS Cloud & Docker<br>🚀 Building Real-World Projects with Spring Boot, React, and AI Integration<br>
+<h1 align="center">Hi 👋, I'm Deepesh Galla</h1>
 
+<h3 align="center">Full Stack Java Developer | Computer Science Student | Aspiring Software Engineer</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Deepesh Galla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:galladeepesh@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gallaDeepesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gallaDeepesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gallaDeepesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gallaDeepesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Java+Developer;Spring+Boot+Developer;React+Enthusiast;AWS+Cloud+Learner;Future+Software+Engineer&center=true&width=600&height=50">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=gallaDeepesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+## 🚀 About Me
 
-<!--
-**gallaDeepesh/gallaDeepesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student (2027)
 
-Here are some ideas to get you started:
+💻 Passionate about Full Stack Development, Cloud Computing, and Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Advanced Spring Boot
+- React Ecosystem
+- AWS Cloud Services
+- Docker & CI/CD
+- System Design
+- Data Structures & Algorithms
+
+🔨 Building:
+- Online Voting System (Spring Boot + React + MySQL + AWS)
+
+🎯 Goal:
+- Secure a Software Development Engineer role and build impactful software products.
+
+⚡ Fun Fact:
+- I enjoy both coding and fitness.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,javascript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
+</p>
+
+---
+
+## 📌 Current Project
+
+### 🗳️ Online Voting System
+
+A secure full-stack web application built with:
+
+✔ Spring Boot  
+✔ React  
+✔ MySQL  
+✔ JWT Authentication  
+✔ AWS Deployment
+
+Features:
+
+- User Authentication & Authorization
+- Election Management
+- Candidate Management
+- Vote Tracking
+- Duplicate Vote Prevention
+- Role-Based Access Control
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gallaDeepesh&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gallaDeepesh&layout=compact" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gallaDeepesh" />
+</p>
+
+---
+
+## 🏆 Coding Profiles
+
+<p>
+<a href="https://leetcode.com/u/GB2023002583/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-Developer-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/deepesh-galla-250678293">
+<img src="https://img.shields.io/badge/LinkedIn-Deepesh%20Galla-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:galladeepesh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Building projects, learning every day, and preparing for Software Engineering opportunities.
+</p>
